@@ -28,8 +28,14 @@ The main Aim of our chatbot is to provide covid-19 statistics for all people who
 		
 	pip install datetime
 [datetime](https://pypi.org/project/datetime/) We can find current date and time using this. 
+
+
 ##Flow chart
+
+
 ![alt text](https://raw.githubusercontent.com/Chinna31313/Covid-Bot/main/muraliflow1.png)
+
+
 ## Youtube Link :
 
 [![Youtube Link](https://i.guim.co.uk/img/media/d3068c5ee36471cdbd5be86763b0c211f1efd104/0_193_5290_3174/master/5290..jpg?width=445&quality=85&auto=format&fit=max&s=d0269549831c63ec07df1fe7268c3c78)](https://youtu.be/x8OYuNmeE6U)
