@@ -11,14 +11,14 @@ print("")
 #middle content
 for _ in range(40):
     print(" ",end=" ")
-print("CODEFORCES BOT!..")
+print("COVID BOT!..")
 #bottom border
 for _ in range(40):
     print(" ",end=" ")
 print("........")
 #Content
 grt=""
-print("Welcome to codeforces bot")
+print("Welcome to covid bot")
 print("")
 h = hour.hour
 if h<12:
